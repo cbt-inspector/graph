@@ -1,1 +1,5 @@
 /target
+/.vscode
+/backend/__pycache__
+/backend/cache
+/gui/node_modules
